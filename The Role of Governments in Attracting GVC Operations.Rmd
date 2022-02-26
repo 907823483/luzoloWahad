@@ -1,0 +1,56 @@
+---
+title: "The Role of Governments in Attracting GVC Operations"
+author: "Rami Osman, Jingjing Luo, Hossein Farahi"
+date: "09/02/2022"
+output: 
+  html_document: 
+    toc: yes
+    toc_depth: 3
+    number_sections: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+Talk about what the project is and why it is important (context). Make sure to include references at every stage in the project. Example sub-sectinos below:
+
+## Define GVCs
+
+## Emergence of GVCs
+Talk about globalization...etc
+
+## Types of GVCs
+
+## Role of GVCs
+Connecting the world
+
+### Advantages
+
+### Disadvantages
+
+## Structure of GVCs
+
+## Where do governments fit in
+
+## Why is GVC participation important for developing countries?
+Reduce unemployment, cross fertilizations leading to reverse innovation, decrease financial burdens on debeloped countries, streamline global economic recovery. Use this section as a segway to introduce the research question, what the dependent variable is and the corresponding independent variables that will help us test the dependent variable correlations. Mention the limitations, differences between developing to developing country VS developing to developed country VS Developed to developed country considerations to attract GVCs
+
+**MENTION RESEARCH QUESTION IN BOLD ON A LINE ON ITS OWN**
+
+# Literature Review
+
+# Exploratory Data Analysis
+Use the independent variables we selected to build our model here and analyse our results. We're most probably going to use panel data to show what action governments take that work and what actions they take that make no difference. Run correlations, plm, ggplots, stargazer...etc
+
+# Models
+
+# Results and Implications (policies, strategies...etc)
+
+
+# Conclusion
+
+# References
+Use Zotero
+
