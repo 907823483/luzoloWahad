@@ -1,6 +1,6 @@
 ---
 title: "The Role of Governments in Attracting GVC Operations"
-author: "Rami Osman, Jingjing Lu, Hossein Farahi"
+author: "Rami Osman, Jingjing Luo, Hossein Farahi"
 date: "09/02/2022"
 output: 
   html_document: 
@@ -40,9 +40,6 @@ Reduce unemployment, cross fertilizations leading to reverse innovation, decreas
 **MENTION RESEARCH QUESTION IN BOLD ON A LINE ON ITS OWN**
 
 # Literature Review
-the effect of the legislation on the GVC
-Why FDI can represent the performance of GVC
-why GCI and SPI can represent the effect of CPI
 
 # Exploratory Data Analysis
 Use the independent variables we selected to build our model here and analyse our results. We're most probably going to use panel data to show what action governments take that work and what actions they take that make no difference. Run correlations, plm, ggplots, stargazer...etc
@@ -50,9 +47,7 @@ Use the independent variables we selected to build our model here and analyse ou
 # Models
 
 # Results and Implications (policies, strategies...etc)
-•	How will legislation affect GVC performance?
-•	What types of countries need to be involved more in terms of legislation in the GVC activities?
-•	What's the difference between the contribution of the manufacturing and service industry between developing countries and developing countries? In more detail, in developing countries, does manufacturing or service contribute more to the performance of GVC in total?
+
 
 # Conclusion
 
